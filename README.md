@@ -31,13 +31,15 @@
 - <b>Game Loop: Handles events, updates the game state, and renders the game objects.</b>
 
 <h2>Gameplay</h2>
-<p align=“center”>
-<b>Start of Game</b>
-<img src=“https://i.imgur.com/eBKB6mW.png” width="80%" />
-<br />
-<br />
-In Game  <br/>
-<img src=“https://i.imgur.com/CvZvCSs.png” height="80%" width="80%" alt="Gameplay"/>
+<p align="center">
+  <b>Start of Game</b>
+  <br />
+  <img src="https://i.imgur.com/eBKB6mW.png" width="50%" alt="Start of Game" />
+  <br />
+  <br />
+  <b>In Game</b>
+  <br />
+  <img src="https://i.imgur.com/CvZvCSs.png" width="50%" alt="Gameplay" />
 </p>
 
 <h2>Languages and Libraries Used</h2>
